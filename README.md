@@ -1,2 +1,3 @@
 # TicTacToe
 Game of Tic Tac Toe on a board of 3x3 using Turtle in Python.
+The logic is "If it’s possible for the computer player to win in the current move, the computer player must win by occupying that empty position, and if it’s possible for the human player to win on the next move, the computer player must preventthe human’s win by occupying that empty position." Also, in this game winning is defined by 3 "X"s or "O"s appearing in a column, row or 3X3 diagonal line which would result in a game over,or when the game reaches a stalemate where no one wins but there is no more empty position available to occupy." 
